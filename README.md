@@ -31,7 +31,7 @@
     CSS
     Bootstrap
     JQuery
-## Support;
+## Support
     For assistance contact iyerikuzweregine19@gmail.com
 
 ## copyright
