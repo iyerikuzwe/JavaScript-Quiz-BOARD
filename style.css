@@ -11,20 +11,8 @@ h2{
     font-style: oblique;
     text-align: center;
   }
-  input.quizSubmit[type="submit"] {
-    color: #ffffff;
-    background-color: black;
-    margin: 0;
-    border: 0;
-    outline: 0;
-    text-transform:uppercase;
-    height:35px;
-    width:85px;
-    border: 1px solid #5E5E5E;
-    border-radius:5px;
-  }
   body{
-    background-color: #ecc;
+    background-color: darkcyan;
   }
  
  .container{
@@ -44,7 +32,7 @@ h2{
  }
  
  .well{
-   background-color: pink;
+   background-color:white;
  }
  #userScore{
    font-size: 30px;
@@ -52,5 +40,13 @@ h2{
    font-weight: bold;
    color: white;
  }
- 
+ #results{
+    width: 60%;
+    background: #aae;
+    margin: 20px auto;
+    overflow: auto;
+    padding: 25px;
+    border-radius: 70px;
+  }
+     
   
