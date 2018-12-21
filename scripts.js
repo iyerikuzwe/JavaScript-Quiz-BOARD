@@ -87,5 +87,4 @@ $('#submitButton').click(function() {
     $("#results").show();
     event.preventDefault()
 });
-
 });
