@@ -17,7 +17,7 @@
 
 
 ### Deployment
-    Enter the link into the url interface and click the prompt
+    Enter the link into the url interface and click the prompt.
 
 ## link to live site on GitHub pages
     https://iyerikuzwe.github.io/Javascript-Quiz-Board/
