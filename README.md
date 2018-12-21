@@ -39,7 +39,7 @@
     
 ### License
     This software iyerikuzwe/Quiz-board is licensed under the MIT license.
-## Acknowledgement;
+## Acknowledgement
     1. I would like to express my deepest appreciation to moringa school who provided me the possibility to complete this project.
     2.  A special gratitude I give to my mentors,  whose contribution in stimulating suggestions and encouragement,  helped me to coordinate my project.
 
