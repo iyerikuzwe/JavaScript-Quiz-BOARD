@@ -1,4 +1,4 @@
-# Author's Name.
+# Author's Name
     Regine Iyerikuzwe
 
 ## project or program name
