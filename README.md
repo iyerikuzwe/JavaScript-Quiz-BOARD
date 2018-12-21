@@ -7,7 +7,7 @@
 ### description of project
     This is a simple online quiz which contains questions pertaining to JavaScript. Each question had four multiple answers which allows the user to select only one answer per question. At the end of the quiz after all your input has been collected your score is displayed on a new page called the results page.
 
-##  set up requirements
+###  set up requirements
     1.  A running network connection to the internet.
     2.  A web browser.
     3.  This link https://github.com/iyerikuzwe/Javascript-Quiz-Board/.
