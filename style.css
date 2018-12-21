@@ -18,9 +18,40 @@ h2{
     border: 0;
     outline: 0;
     text-transform:uppercase;
-    height:35px
+    height:35px;
     width:85px;
     border: 1px solid #5E5E5E;
     border-radius:5px;
   }
+  body{
+    background-color: #ecc;
+  }
+ 
+ .container{
+   width: 60%;
+   background: #aae;
+   margin: 20px auto;
+   overflow: auto;
+   padding: 25px;
+   border-radius: 70px;
+ }
+ 
+ .question{
+   color: black;
+   font-size: 17px;
+   font-style: oblique;
+   font-weight: bold;
+ }
+ 
+ .well{
+   background-color: pink;
+   color: purple;
+ }
+ #userScore{
+   font-size: 30px;
+   font-style: italic;
+   font-weight: bold;
+   color: white;
+ }
+ 
   
